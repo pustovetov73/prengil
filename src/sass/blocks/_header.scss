@@ -1,0 +1,24 @@
+.header {
+    height: 85px;
+    padding: 19px 0 16px 0;
+    &__contacts {
+        display: flex;
+        justify-content: space-between;
+        h3 {
+            font-size: 14px;
+            font-weight: 700;
+            color: #242424;
+            margin-left: 11px;
+        }
+        a {
+            margin-left: 11px;
+            font-size: 12px;
+            font-weight: 300;
+            text-decoration: none;
+        }
+        &__uk {
+            display: flex;
+            align-items: flex-start;
+        }
+    }
+}

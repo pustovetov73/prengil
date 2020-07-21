@@ -1,1 +1,1 @@
-.title{font-size:100px}
+.container{position:relative;max-width:1140px;margin:0 auto}.header{height:85px;padding:19px 0 16px 0}.header__contacts{display:flex;justify-content:space-between}.header__contacts h3{font-size:14px;font-weight:700;color:#242424;margin-left:11px}.header__contacts a{margin-left:11px;font-size:12px;font-weight:300;text-decoration:none}.header__contacts__uk{display:flex;align-items:flex-start}
